@@ -1,4 +1,4 @@
-# Autoscraper---Web-Scraping
+# Autoscraper Web-Scraping
 
 Web Scraping is a technique used for scraping from the internet and storing it locally on your system. It is used to scrape data from different websites using Hypertext transfer protocol. Web Scraping is used by a large number of companies that work on Data Harvesting. It is used to create Search Engine bots. 
 
